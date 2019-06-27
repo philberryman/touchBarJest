@@ -13,6 +13,7 @@ Download and install My Touchbar My Rule (MTMR) from https://github.com/Toxblh/M
 Open Preferences of MTMR (from the MTMR icon on the OS X top menu bar)
 
 Add the following to the config file: the config file is an array so put it before the closing ]
+You will need to edit the "filePath" to wherever these files are on your machine.
 
 ```,
     {
