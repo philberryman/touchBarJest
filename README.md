@@ -1,7 +1,7 @@
 # touchBarJest
 
-![GitHub Logo](https://github.com/philberryman/touchBarJest/images/touchBar.png)
-Format: ![Alt Text](url)
+![Touchbar](https://github.com/philberryman/touchBarJest/blob/master/images/touchBar.png)
+
 
 A super simple evening project to get my (or your) Jest test results showing on your MacBook Pro TouchBar.
 
