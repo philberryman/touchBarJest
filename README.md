@@ -3,7 +3,7 @@
 ![Touchbar](https://github.com/philberryman/touchBarJest/blob/master/images/touchBar.png)
 
 
-A super simple evening project to get my (or your) Jest test results showing on your MacBook Pro TouchBar.
+A super simple evening project to get my (or your) Jest test results showing on your MacBook Pro TouchBar - shown above at the far right. All 10 tests are passing. Yeh!
 
 Most of the heavy lifting for this project was done by My Touchbar My Rules (https://github.com/Toxblh/MTMR). I have just created a few lines of code to get Jest output on the touchbar.
 
